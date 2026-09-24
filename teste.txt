@@ -1,6 +1,2 @@
 Ola mundo de novo testando fetch
-<<<<<<< HEAD
 Teste conflito
-=======
-Agora testando conflito de merge
->>>>>>> banana/main
